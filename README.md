@@ -1,1 +1,1 @@
-# weather_prediction_capstone
+# Weather Prediction for the Ninoy Aquino International Airport
